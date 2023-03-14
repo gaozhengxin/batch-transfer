@@ -1,0 +1,7 @@
+{
+  "rpc": "https://rpc.ankr.com/fantom_testnet",
+  "chainId": 4002,
+  "token": "0x4C4BC2Ba97b9bc8C88C42d3aEfE775b62d45eFFD",
+  "amount": 20000000000000000,
+  "batchTransfer": "0x98F32AB8f99e2C40a341E6c3b2A193AA3272129B"
+}
