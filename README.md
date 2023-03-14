@@ -13,7 +13,13 @@ go build .
 ### 2. 部署 BatchTransfer 合约
 Contract source code : https://gist.github.com/gaozhengxin/f6fe3d28f9aace7abeebefdb8d833cd4
 
-**Deployed 合约地址**
+#### Deployed 合约地址
+**Mainnet**
+| Chain | BatchTransfer |
+|-------|:-------------:|
+| bsc | 0xa9d79D8741510dD0FB2Df7b741c899334b28DB1c |
+
+**Testnet**
 | Chain | BatchTransfer |
 |-------|:-------------:|
 | fantom testnet | 0x98F32AB8f99e2C40a341E6c3b2A193AA3272129B |
